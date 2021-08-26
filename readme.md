@@ -1,4 +1,5 @@
-<h1> Hi, I'm MagoPato! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+
+<h2> <img src="https://media4.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif" width="50">Hi, I'm MagoPato! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://user-images.githubusercontent.com/46275040/130966311-1f677328-a329-4799-9476-264fbb914fb2.png" width="230">
 
 ```javascript
