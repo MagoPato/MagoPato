@@ -5,7 +5,7 @@
 ```javascript
 const MagoPato = {
   pronouns: "he" | "him",
-  code: [Javascript, C/C++, HTML, CSS, , Python, Java, C#],
+  code: [Javascript, C/C++, HTML, CSS,Python, Java, C#,SQL SERVER],
   tools: [Node],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
