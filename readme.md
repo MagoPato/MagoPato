@@ -17,8 +17,10 @@ const MagoPato = {
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
+<center>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagoPato&theme=github_dark&hide_progress=true)" alt="" width="400"/>
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=2266hwwnnjonhwg6q7vr2zooq&limit=3&hide_top_tracks=1&show_border=1"  alt="Data Card for Spotify" width="420"/>
 </p>
+</center>
 
