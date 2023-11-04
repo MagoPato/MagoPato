@@ -16,3 +16,6 @@ const MagoPato = {
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
+<p>
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=bacon-delight&theme=github_dark&layout=compact&hide=jupyter%20notebook,matlab](https://github-readme-stats.vercel.app/api/top-langs/?username=MagoPato&theme=github_dark&hide_progress=true))https://github-readme-stats.vercel.app/api/top-langs/?username=MagoPato&theme=github_dark&hide_progress=true)" />
+</p>
