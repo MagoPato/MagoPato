@@ -4,17 +4,18 @@
 
 ```javascript
 const MagoPato = {
-  pronouns: "he" | "him",
-  code: [Javascript, C/C++, HTML, CSS,Python, Java, C#,SQL SERVER],
-  tools: [Node],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  pronouns: "he",
+  code: ["JavaScript", "C/C++", "HTML", "CSS", "Python", "Java", "C#","PHP","SQL", "SQL Server"],
+  tools: ["Node.js", "Chrome DevTools", "VS Code debugger", "Xampp"],
+  architecture: ["Microservices", "Event-Driven", "Design System Pattern"],
+  microcontrollers: ["Arduino", "ESP32","Raspberry Pi", "Comunicación IoT"],
+  artificialIntelligence: ["(Machine Learning)", "(ANN)", "Visión por computadora"],
   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+                    coorganizer: "AfroPython",
+                    speaker: "Latinity",
+                    mentor: "RailsGirls POA"
+                  },
+};
 ```
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagoPato&theme=github_dark&hide_progress=true)" />
