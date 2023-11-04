@@ -18,7 +18,7 @@ const MagoPato = {
 }
 ```
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagoPato&theme=github_dark&hide_progress=true)" width="350" height="300"/>
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=2266hwwnnjonhwg6q7vr2zooq&limit=3&hide_top_tracks=1&show_border=1"  width="350" height="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagoPato&theme=github_dark&hide_progress=true)" width="375" height="325"/>
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=2266hwwnnjonhwg6q7vr2zooq&limit=3&hide_top_tracks=1&show_border=1"  width="375" height="325" />
 </p>
 
