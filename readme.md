@@ -19,6 +19,6 @@ const MagoPato = {
 ```
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagoPato&theme=github_dark&hide_progress=true)" />
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=2266hwwnnjonhwg6q7vr2zooq&limit=3&hide_top_tracks=1&show_border=4"  width="250" height="250" />
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=2266hwwnnjonhwg6q7vr2zooq&limit=3&hide_top_tracks=1&show_border=20"  width="200" height="250" />
 </p>
 
