@@ -6,16 +6,15 @@
 ```javascript
 const MagoPato = {
   pronouns: "he" | "him",
-  code: [Javascript, C/C++, HTML, CSS, Python, Java, C#, SQL SERVER],
-  tools: [Node],		
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  artificialIntelligence: ["(Machine Learning)", "(ANN)", "computer vision"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  code: [Javascript, C/C++, HTML, CSS, Python, Java, SQL],
+  tools: ["Node.js", "Chrome DevTools", "Xampp", "Microcontroladores (Arduino, ESP32, Raspberry Pi)"],
+  hardwareDevelopment: {
+    programming: ["Programación de microcontroladores Arduino y ESP32"],
+    designPrototyping: ["Diseño y prototipado de proyectos electrónicos con Arduino"],
+    sensorIntegration: ["Integración de sensores y actuadores con microcontroladores"]
+  },
+  artificialIntelligence: ["Machine Learning", "computer vision", "ARIMA", "SARIMA", "LSTM", "TensorFlow"],
+  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
 
